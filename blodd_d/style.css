@@ -1,0 +1,101 @@
+body{
+    padding:0px;
+    margin:0px;
+    background:url('images/backimg.png');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+ 
+
+.form{
+    width:30%;
+    margin:auto;
+    padding-top:120px;
+    padding-bottom:160px;
+   
+}
+
+.__hr{
+width: 130px;
+margin: auto;
+height: auto;
+color: black;
+}
+
+.form_{
+    text-align:center;
+    padding:15px;
+   /* border:2px solid black;*/
+}
+
+.log-btn{
+    margin-left:900px;
+}
+
+.log-btn:hover{
+    cursor:pointer;
+    border-bottom:2px solid green; 
+}
+
+.footer{
+position: fixed;
+bottom: 0;
+}
+
+.ft-nav{
+    display: inline-flex;
+}
+
+.ft_{
+    background-color: #d71616a3;
+}
+
+.admin:hover{
+    cursor:pointer;
+    border-bottom:2px solid black;
+}
+
+
+input[type=text], select,input[type=email],input[type=number],input[type=password],input[type=date]{
+    width: 100%;
+    height:30px;
+    padding: 10px 15px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #4435356;
+    color: black;
+    padding: 4px 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .rg_btn {
+    background-color: #d71616a3;
+   }
+
+ 
+   .rg_btn:hover {
+    background-color: whitesmoke;
+   }
+
+
+   .us_log{
+    background-color: #90ee90;
+   }
+  
+
+   .us_log:hover{
+    
+    background-color: whitesmoke;
+   }
