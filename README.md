@@ -1,7 +1,7 @@
 # Bloodbank-Management-System
 
 
-Online Blood Donation Camp Registration Portal
+
 This is a PHP script for an Online Blood Donation Camp Registration Portal. The portal allows individuals to register as blood donors for a youth blood donation camp. It provides a user-friendly registration form and handles the submission of donor information to a MySQL database.
 
 Features
